@@ -1,5 +1,5 @@
 {
-  "name": "rn-dominant-color",
+  "name": "@spicysparks/rn-dominant-color",
   "version": "1.7.0",
   "description": "Simple library to extract the dominant color from an image in React Native",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "react-native",
     "dominant-color"
   ],
-  "homepage": "https://github.com/matinzd/rn-dominant-color",
-  "author": "Matin ZD",
+  "homepage": "https://github.com/Spicy-Sparks/rn-dominant-color",
+  "author": "Spicy Sparks",
   "peerDependencies": {
     "react-native": "^0.41.2"
   },
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/matinzd/rn-dominant-color.git"
+    "url": "https://github.com/Spicy-Sparks/rn-dominant-color.git"
   },
   "devDependencies": {
     "semantic-release": "^15.13.24"
