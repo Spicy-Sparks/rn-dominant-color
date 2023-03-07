@@ -1,6 +1,6 @@
 {
   "name": "@spicysparks/rn-dominant-color",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "description": "Simple library to extract the dominant color from an image in React Native",
   "main": "index.js",
   "keywords": [
